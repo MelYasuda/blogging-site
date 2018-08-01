@@ -5,8 +5,14 @@ div.important {
 
 div.day-one {
   color: #ff00cd;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  padding: 4px;
 }
 
 div.day-two {
   color: #89f442;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 4px;
 }
