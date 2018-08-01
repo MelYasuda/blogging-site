@@ -1,0 +1,12 @@
+div.important {
+  color: gold;
+  font-style: italic;
+}
+
+div.day-one {
+  color: #ff00cd;
+}
+
+div.day-two {
+  color: #89f442;
+}
